@@ -1,0 +1,10 @@
+_word_  -> Write inside this to make italics
+**word** -> two asterik to make word bold 
+# , ## , ### .. upto 6  -> use these # to write heading greate the number of hashes smaller the size
+[write desc here] (link here) -> do this to add links to the file
+[][] -> use two sq brackets to add reference. in 2nd bracket add a reference, while the 1st will show the text showm in the end 
+! [text] (link) -> to add a image. If I add ! , then the image will be show right directly in the md file. I can also do referencing with [][]
+> -> Use this to add block
+* -> Use this to add lines for list ( I can intent to add sublist)
+number. -> to create a ordered list
+add Two space -> to move text to new line
